@@ -2,3 +2,5 @@
 Jupyter Notebook.<br><br>
 ## Methodologies:<br>
 Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization.<br><br>
+## Advanced Topics:<br>
+Predictive Modeling.
